@@ -1,0 +1,55 @@
+h1 {
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-family: "微软雅黑";
+}
+
+span {
+	font-size: 15px;
+	text-align: center;
+}
+
+span.one {
+	color: red;
+	margin-left: 15px;
+}
+
+p.one {
+	color: #cfa972;
+	font-size: 18px;
+	height: 20px;
+}
+
+p.two {
+	border: gainsboro solid thin;
+	border-radius: 10px;
+	height: 50px;
+	margin: 15px;
+}
+
+.four div div {
+	float: left;
+	width: 150px;
+	height: 96px;
+}
+
+input {
+	float: right;
+	margin-right: 10px;
+}
+
+hr.xian {
+	position: absolute;
+	width: 375px;
+	margin-top: -100px;
+	z-index: -1;
+	transform: translate(-50%);
+	left: 50%;
+}
+
+.footer {
+	position: relative;
+	top: -44px;
+	left: 0px;
+}
